@@ -1,3 +1,10 @@
+# Note
+Repository moved to new location: `https://github.com/python-edu/accuracy_checker`
+
+---
+---
+
+
 # About script
 
 The script's task is to calculate popular classification accuracy metrics. The script was written in connection with the
